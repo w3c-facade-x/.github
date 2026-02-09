@@ -24,19 +24,20 @@ To achieve our goals, the community group focuses on the following:
 
 This organisation serves as the primary collaboration platform for our technical work.
 
-• [meetings](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fw3c-facade-x%2Fmeetings)**:** Contains meeting notes, agendas, and related materials.
+- [meetings]([https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fw3c-facade-x%2Fmeetings](https://github.com/w3c-facade-x/meetings))**:** Contains meeting notes, agendas, and related materials.
+- [facade-x-metamodel](https://github.com/w3c-facade-x/facade-x-metamodel) The repository for the specification of the **Facade-X Metamodel**.
+- [facade-x-rdf](https://github.com/w3c-facade-x/facade-x-rdf) The repository for the specification of the **Facade-X Metamodel** in RDF.
+- [facade-x-rdf-mappings](https://github.com/w3c-facade-x/facade-x-rdf-mappings) The repository for the specification of the mappings from the **Facade-X Metamodel** to RDF.
 
-• **facade-x-spec:** The repository for the **Facade-X Metamodel Specification**, scaffolded with **ReSpec** for W3C-style publishing.
 
 ## 🤝 Get Involved
 
 The Community Group's work has just started. We welcome contributions from developers, businesses, and data enthusiasts. You do not need to be a W3C member to participate; anyone with a **W3C account** is welcome to join.
 
-• **Join the Group:** Sign up via our [Official W3C Group Page](https://www.w3.org/community/facade-x/).
-
-• **Mailing List:** Participate in discussions via [public-facade-x@w3.org](mailto:public-facade-x@w3.org).
-
-• **YouTube:** Recorded sessions are available on our [YouTube channel](https://www.youtube.com/feed/subscriptions/UCBgzQPRKpf-qcYU05sFN-Vg).
+ - **Join the Group:** Sign up via our [Official W3C Group Page](https://www.w3.org/community/facade-x/).
+ - **Mailing List:** Participate in discussions via [public-facade-x@w3.org](mailto:public-facade-x@w3.org).
+ - **YouTube:** Recorded sessions are available on our [YouTube channel](https://www.youtube.com/feed/subscriptions/UCBgzQPRKpf-qcYU05sFN-Vg).
+ - **Collaborate**: You can colaborate via the usal GitHub tools (Issue tracker and Pull Requests) or by joining the Facade-X group on [hypothes.is](https://hypothes.is/groups/x5wgwMGK/facade-x).
 
 ## 👥 Leadership & Support
 
