@@ -24,8 +24,8 @@ To achieve our goals, the community group focuses on the following:
 
 This organisation serves as the primary collaboration platform for our technical work.
 
-- [meetings]([https://github.com/w3c-facade-x/meetings](https://github.com/w3c-facade-x/meetings))**:** Contains meeting notes, agendas, and related materials.
-- [facade-x-specs](https://github.com/w3c-facade-x/facade-x-specs) The repository for all specifications:
+- [meetings](https://github.com/w3c-facade-x/meetings): Contains meeting notes, agendas, and related materials.
+- [facade-x-specs](https://github.com/w3c-facade-x/facade-x-specs): The repository for all specifications:
   - the Facade-X Metamodel.
   - the Facade-X RDF vocabulary.
   - the Facade-X mappings to various formats.
